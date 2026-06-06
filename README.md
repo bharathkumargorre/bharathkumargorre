@@ -1,16 +1,65 @@
-## Hi there 👋
+ 
+# Hi, I'm G.Bharath Kumar 👋
 
-<!--
-**bharathkumargorre/bharathkumargorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Software Developer
 
-Here are some ideas to get you started:
+Passionate Computer Science student focused on Web Development, Backend Development, REST APIs, and AI Applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- SQL
+
+### Backend
+- Django
+- Flask
+- Node.js
+- Express.js
+- REST APIs
+
+### Frontend
+- HTML5
+- CSS3
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+### Data & AI
+- Pandas
+- LangChain
+
+---
+
+## 📌 Featured Projects
+
+### Smart Cart System
+Smart shopping cart solution designed to improve retail automation and user experience.
+
+### Book Management REST API
+RESTful API built using Node.js and Express.js with CRUD operations.
+
+### Flask User API
+Backend API for user management using Flask.
+
+### 3D E-Commerce Website
+Modern e-commerce website with interactive design.
+
+### Sales Data Analysis Using Pandas
+Data analysis project using Python and Pandas.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/bharathkumargorre
+
+GitHub:
+https://github.com/bharathkumargorre
