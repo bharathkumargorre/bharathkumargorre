@@ -14,6 +14,7 @@ Passionate Computer Science student focused on Web Development, Backend Developm
 - JavaScript
 - SQL
 
+
 ### Backend
 - Django
 - Flask
