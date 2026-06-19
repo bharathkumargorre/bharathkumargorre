@@ -22,7 +22,7 @@ I specialize in developing responsive frontend interfaces and integrating them w
 A secure full-stack notes application with authentication and protected user data handling.  
 **Tech:** React, Node.js, Express, MongoDB  
 🔗 GitHub: https://github.com/bharathkumargorre/secure-notes-app.git  
-🌐 Live: (add link here)
+🌐 Live: https://secure-notes-oelpb9ncb-bharathkumar08052004.vercel.app
 
 ---
 
