@@ -1,7 +1,7 @@
 <!-- Animated Header -->
-<h1 align="center"> Hi, I'm G.Bharath Kumar 👋</h1>
+<h1 align="center"> Hi 👋, I'm G.Bharath Kumar</h1>
 <h3 align="center">Full Stack Developer | React Enthusiast | Problem Solver</h3>
-<h4 align="center">🚀 Full Stack Developer passionate about building scalable, production-ready web applications.
+<h4 align="center">I'm Passionate about building scalable, production-ready web applications.
 
 I specialize in developing responsive frontend interfaces and integrating them with robust backend systems, REST APIs, and database-driven architectures to create smooth and real-world user experiences.</h4>
 <p align="center">
@@ -10,35 +10,12 @@ I specialize in developing responsive frontend interfaces and integrating them w
 
 ---
 
-## 📊 GitHub Stats (Tokyo Night Theme)
+## 🎯 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathkumargorre&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bharathkumargorre&theme=tokyonight" />
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumargorre&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharathkumargorre&theme=tokyonight&margin-w=15" />
-</p>
+- 🎓 Passionate about building real-world scalable web applications  
+- 💡 Focused on full-stack development and backend architecture  
+- 🚀 Interested in APIs, system design, and deployment workflows  
+- 🎯 Constantly learning and improving through hands-on projects  
 
 ---
 
@@ -91,20 +68,44 @@ An intelligent shopping cart system with dynamic item management and calculation
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharathkumargorre&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bharathkumargorre&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumargorre&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Focus Right Now
+
+- 🔥 Improving Full Stack Development skills
+- ⚡ Building more advanced real-world projects
+- 📚 Learning system design basics
+- 💼 Preparing for internships & placements
+
+---
+
 ## 📈 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bharathkumargorre&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## 🎯 About Me
-
-- Passionate about building real-world scalable web applications  
-- Focused on full-stack development and backend architecture  
-- Interested in APIs, system design, and deployment workflows  
-- Constantly learning and improving through hands-on projects  
 
 ---
 
@@ -130,10 +131,6 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
 
 ---
 
-⭐ *"Building ideas into real-world scalable applications."*
+## ⚡ Final Note
 
----
-
-## ⚡ Fun Fact
-
-> “Code is like humor. When you have to explain it, it’s bad.” 😄
+> “I don’t just learn technologies — I build with them.”
