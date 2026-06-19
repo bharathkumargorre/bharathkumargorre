@@ -1,66 +1,84 @@
- 
-# Hi, I'm G.Bharath Kumar 👋
+# Hi, I'm Bharath Kumar 👋
 
-## 🚀 Aspiring Software Developer
+🚀 Full Stack Developer passionate about building scalable, production-ready web applications.
 
-Passionate Computer Science student focused on Web Development, Backend Development, REST APIs, and AI Applications.
+I specialize in developing responsive frontend interfaces and integrating them with robust backend systems, REST APIs, and database-driven architectures to create smooth and real-world user experiences.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- SQL
-
-
-### Backend
-- Django
-- Flask
-- Node.js
-- Express.js
-- REST APIs
-
-### Frontend
-- HTML5
-- CSS3
-
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-
-### Data & AI
-- Pandas
-- LangChain
+**Frontend:** React.js, JavaScript, HTML, CSS  
+**Backend:** Node.js, Express.js, Python, Django  
+**Database:** MongoDB, SQL  
+**Tools & Platforms:** Git, GitHub, REST APIs, Postman  
+**Other:** GitHub Pages, Deployment Basics
 
 ---
 
 ## 📌 Featured Projects
 
-### Smart Cart System
-Smart shopping cart solution designed to improve retail automation and user experience.
+### 🔐 Secure Notes Application
+A secure full-stack notes application with authentication and protected user data handling.  
+**Tech:** React, Node.js, Express, MongoDB  
+🔗 GitHub: https://github.com/bharathkumargorre/secure-notes-app.git  
+🌐 Live: (add link here)
 
-### Book Management REST API
-RESTful API built using Node.js and Express.js with CRUD operations.
+---
 
-### Flask User API
-Backend API for user management using Flask.
+### 📅 Event Management & RSVP System
+A complete event management platform with RSVP functionality, user event tracking, and CRUD operations.  
+**Tech:** React, Node.js, Express, MongoDB  
+🔗 GitHub: https://github.com/bharathkumargorre/Event-Management-RSVP-System.git  
+🌐 Live: (add link here)
 
-### 3D E-Commerce Website
-Modern e-commerce website with interactive design.
+---
 
-### Sales Data Analysis Using Pandas
-Data analysis project using Python and Pandas.
+### 💻 Online Code Editor
+A browser-based code editor supporting real-time code execution and interactive development experience.  
+**Tech:** React, Node.js, Express  
+🔗 GitHub: https://github.com/bharathkumargorre/Online-Code-Editor-with-Live-Preview.git  
+🌐 Live: (add link here)
+
+---
+
+### 📚 Book Management REST API
+A structured REST API for managing books with full CRUD operations and clean backend architecture.  
+**Tech:** Node.js, Express, MongoDB  
+🔗 GitHub: https://github.com/bharathkumargorre/REST-API-to-Manage-Books-Using-Node.js-Express.git 
+🌐 Live: (optional)
+
+---
+
+### 🛒 Smart Cart System
+An intelligent shopping cart system with dynamic item management and calculation logic.  
+**Tech:** JavaScript, React, Node.js  
+🔗 GitHub: https://github.com/bharathkumargorre/smartcart.git
+🌐 Live: (add link here)
+
+---
+
+## 🎯 About Me
+
+- Passionate about building real-world scalable web applications  
+- Focused on full-stack development and backend architecture  
+- Interested in APIs, system design, and deployment workflows  
+- Constantly learning and improving through hands-on projects  
+
+---
+
+## 🚀 Career Goal
+
+Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I can contribute to real-world production systems, learn from experienced engineers, and grow as a software developer.
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn:
-https://www.linkedin.com/in/bharathkumargorre
+- LinkedIn: www.linkedin.com/in/bharathkumargorre
+- GitHub: https://github.com/bharathkumargorre
+- Email: bharathkumar08052004@gmail.com
 
-GitHub:
-https://github.com/bharathkumargorre
+---
+
+⭐ *"Building ideas into real-world scalable applications."*
