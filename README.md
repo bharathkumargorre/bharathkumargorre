@@ -5,7 +5,7 @@
 
 I specialize in developing responsive frontend interfaces and integrating them with robust backend systems, REST APIs, and database-driven architectures to create smooth and real-world user experiences.</h4>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;MERN+Stack+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Full+Stack+Developer;React+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
