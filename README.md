@@ -30,7 +30,6 @@ A secure full-stack notes application with authentication and protected user dat
 A complete event management platform with RSVP functionality, user event tracking, and CRUD operations.  
 **Tech:** React, Node.js, Express, MongoDB  
 🔗 GitHub: https://github.com/bharathkumargorre/Event-Management-RSVP-System.git  
-🌐 Live: (add link here)
 
 ---
 
@@ -46,7 +45,6 @@ A browser-based code editor supporting real-time code execution and interactive 
 A structured REST API for managing books with full CRUD operations and clean backend architecture.  
 **Tech:** Node.js, Express, MongoDB  
 🔗 GitHub: https://github.com/bharathkumargorre/REST-API-to-Manage-Books-Using-Node.js-Express.git 
-🌐 Live: (optional)
 
 ---
 
@@ -54,7 +52,6 @@ A structured REST API for managing books with full CRUD operations and clean bac
 An intelligent shopping cart system with dynamic item management and calculation logic.  
 **Tech:** JavaScript, React, Node.js  
 🔗 GitHub: https://github.com/bharathkumargorre/smartcart.git
-🌐 Live: (add link here)
 
 ---
 
