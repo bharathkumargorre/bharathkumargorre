@@ -52,7 +52,7 @@ A full-stack AI chatbot application with a clean UI and modular backend architec
 Supports real-time conversation, multiple LLM models, and optional PDF-based Q&A.
 **Tech Stack:** Streamlit, Python, LangChain, Groq API, Hugging Face Spaces  
 🔗 GitHub: https://github.com/YOUR_USERNAME/ai-chatbot-langchain  
-🌐 Live Demo: https://YOUR-SPACE-NAME.hf.space  
+🌐 Live Demo: https://huggingface.co/spaces/BharathKumar08/ai-chatbot-langchain
 
 ---
 
