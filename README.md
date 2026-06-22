@@ -47,6 +47,15 @@ A browser-based code editor supporting real-time code execution and interactive 
 
 ---
 
+### 🤖 AI Chatbot (LangChain + Groq + Streamlit)
+A full-stack AI chatbot application with a clean UI and modular backend architecture.  
+Supports real-time conversation, multiple LLM models, and optional PDF-based Q&A.
+**Tech Stack:** Streamlit, Python, LangChain, Groq API, Hugging Face Spaces  
+🔗 GitHub: https://github.com/YOUR_USERNAME/ai-chatbot-langchain  
+🌐 Live Demo: https://YOUR-SPACE-NAME.hf.space  
+
+---
+
 ### 📅 Event Management & RSVP System
 A complete event management platform with RSVP functionality, user event tracking, and CRUD operations.  
 **Tech:** React, Node.js, Express, MongoDB  
