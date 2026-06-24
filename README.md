@@ -1,4 +1,3 @@
-<!-- Animated Header -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:00BFFF,100:7B68EE&text=G.%20Bharath%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
@@ -148,16 +147,6 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/bharathkumargorre/bharathkumargorre/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -174,6 +163,14 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bharathkumargorre/bharathkumargorre/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
 ## ⚡ Final Note
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A5ACD,50:00BFFF,100:7B68EE"/>
 > “I don’t just learn technologies — I build with them.”
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A5ACD,50:00BFFF,100:7B68EE"/>
