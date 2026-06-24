@@ -5,11 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;⚛️+React+Developer;🤖+AI+Developer;🌐+Backend+Developer;🔥+Open+Source+Learner;💻+Building+Real+World+Projects"/>
 
 </div>
-<p align="center">
 
-<img width="700" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
-
-</p>
 
 <p align="center">
 
