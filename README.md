@@ -27,12 +27,6 @@ I specialize in developing responsive frontend interfaces and integrating them w
 **Tools & Platforms:** Git, GitHub, REST APIs, Postman  
 **Other:** GitHub Pages, Deployment Basics.
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,mysql,git,github,vscode,postman"/>
-
-</p>
-
 ---
 
 ## 📌 Featured Projects
