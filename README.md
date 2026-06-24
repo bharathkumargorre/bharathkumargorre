@@ -1,3 +1,13 @@
+ <section
+      id="home"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden bg-[#09090B]"
+    >
+      {/* Background Glow */}
+      <div className="absolute w-[600px] h-[600px] bg-violet-700 rounded-full blur-[180px] opacity-20"></div>
+
+      <div className="absolute top-10 right-20 w-72 h-72 bg-cyan-500 blur-[150px] rounded-full opacity-20"></div>
+</section>
+
 <!-- Animated Header -->
 <h1 align="center"> Hi 👋, I'm G.Bharath Kumar</h1>
 <h3 align="center">Full Stack Developer | React Enthusiast | Problem Solver</h3>
