@@ -17,7 +17,7 @@
 
 </p>
 
----
+
 
 <table>
 
@@ -43,41 +43,14 @@
 </tr>
 
 </table>
----
+
+
 
 ## 💻 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,mysql,git,github,vscode,postman"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathkumargorre&theme=tokyonight"/>
-
-</p>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750573-c15f1d90-95d8-4d1d-8d6b-7fdd5b8cf7b4.gif">
-
----
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bharathkumargorre&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=bharathkumargorre&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/bharathkumargorre/bharathkumargorre/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
@@ -156,14 +129,6 @@ An intelligent shopping cart system with dynamic item management and calculation
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharathkumargorre&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharathkumargorre&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharathkumargorre&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharathkumargorre&theme=tokyonight"/>
-
 ## 📈 Focus Right Now
 
 - 🔥 Improving Full Stack Development skills
@@ -185,7 +150,7 @@ An intelligent shopping cart system with dynamic item management and calculation
 
 Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I can contribute to real-world production systems, learn from experienced engineers, and grow as a software developer.
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -201,7 +166,7 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
   </a>
 </p>
 
----
+
 
 # 🐍 Contribution Snake
 
@@ -211,4 +176,7 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
 
 </p>
 
+## ⚡ Final Note
+
+> “I don’t just learn technologies — I build with them.”
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=gradient"/>
