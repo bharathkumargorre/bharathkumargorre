@@ -1,11 +1,30 @@
 <!-- Animated Header -->
-<h1 align="center"> Hi 👋, I'm G.Bharath Kumar</h1>
-<h3 align="center">Full Stack Developer | React Enthusiast | Problem Solver</h3>
-<h4 align="center">I'm Passionate about building scalable, production-ready web applications.
+<div align="center">
 
-I specialize in developing responsive frontend interfaces and integrating them with robust backend systems, REST APIs, and database-driven architectures to create smooth and real-world user experiences.</h4>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:00BFFF,100:7B68EE&text=G.%20Bharath%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+</div>
+
+<h1 align="center">
+Hi 👋 I'm Bharath Kumar
+</h1>
+
+<h3 align="center">
+
+🚀 Full Stack Developer • React Developer • Backend Enthusiast
+
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Full+Stack+Developer;React+Developer;Building+Real+World+Projects" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Python+Developer;Building+Production+Ready+Applications;Always+Learning+New+Technologies"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750564-f5e7d9d2-4d5e-4fd2-9f4d-14318e5f7dcb.gif" width="700"/>
+
 </p>
 
 ---
@@ -26,6 +45,10 @@ I specialize in developing responsive frontend interfaces and integrating them w
 **Database:** MongoDB, SQL  
 **Tools & Platforms:** Git, GitHub, REST APIs, Postman  
 **Other:** GitHub Pages, Deployment Basics
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750573-c15f1d90-95d8-4d1d-8d6b-7fdd5b8cf7b4.gif">
 
 ---
 
@@ -125,6 +148,16 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bharathkumargorre/bharathkumargorre/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -142,5 +175,5 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
 ---
 
 ## ⚡ Final Note
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A5ACD,50:00BFFF,100:7B68EE"/>
 > “I don’t just learn technologies — I build with them.”
