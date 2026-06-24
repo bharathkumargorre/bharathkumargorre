@@ -1,49 +1,31 @@
-<div align="center">
+<!-- Animated Header -->
+<h1 align="center"> Hi 👋, I'm G.Bharath Kumar</h1>
+<h3 align="center">Full Stack Developer | React Enthusiast | Problem Solver</h3>
+<h4 align="center">I'm Passionate about building scalable, production-ready web applications.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=G.%20Bharath%20Kumar&fontSize=50&fontAlignY=38&animation=twinkling&color=gradient"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;⚛️+React+Developer;🤖+AI+Developer;🌐+Backend+Developer;🔥+Open+Source+Learner;💻+Building+Real+World+Projects"/>
-
-</div>
-
-
+I specialize in developing responsive frontend interfaces and integrating them with robust backend systems, REST APIs, and database-driven architectures to create smooth and real-world user experiences.</h4>
 <p align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb6f0-1c5c-4d67-a3f0-b0b26c95b8fd.gif">
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Full+Stack+Developer;React+Developer;Building+Real+World+Projects" />
 </p>
 
+---
 
-
-<table>
-
-<tr>
-
-<td width="60%">
- 
 ## 🎯 About Me
 
 - 🎓 Passionate about building real-world scalable web applications  
 - 💡 Focused on full-stack development and backend architecture  
 - 🚀 Interested in APIs, system design, and deployment workflows  
-- 🎯 Constantly learning and improving through hands-on projects
+- 🎯 Constantly learning and improving through hands-on projects  
 
- 
-</td>
-
-<td>
-
-<img width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-</td>
-
-</tr>
-
-</table>
-
-
+---
 
 ## 💻 Tech Stack
+
+**Frontend:** React.js, JavaScript, HTML, CSS  
+**Backend:** Node.js, Express.js, Python, Django  
+**Database:** MongoDB, SQL  
+**Tools & Platforms:** Git, GitHub, REST APIs, Postman  
+**Other:** GitHub Pages, Deployment Basics.
 
 <p align="center">
 
@@ -147,7 +129,7 @@ An intelligent shopping cart system with dynamic item management and calculation
 
 Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I can contribute to real-world production systems, learn from experienced engineers, and grow as a software developer.
 
-
+---
 
 ## 🤝 Connect With Me
 
@@ -163,16 +145,8 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
   </a>
 </p>
 
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/bharathkumargorre/bharathkumargorre/output/github-contribution-grid-snake.svg"/>
-
-</p>
+---
 
 ## ⚡ Final Note
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=gradient" > “I don’t just learn technologies — I build with them.” />
+> “I don’t just learn technologies — I build with them.”
