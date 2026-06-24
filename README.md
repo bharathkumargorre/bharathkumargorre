@@ -41,7 +41,7 @@
 
 </table>
 
-```
+
 
 ## 💻 Tech Stack
 
@@ -175,5 +175,4 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
 
 ## ⚡ Final Note
 
-> “I don’t just learn technologies — I build with them.”
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=gradient" > “I don’t just learn technologies — I build with them.” />
