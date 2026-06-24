@@ -1,53 +1,85 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:00BFFF,100:7B68EE&text=G.%20Bharath%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=G.%20Bharath%20Kumar&fontSize=50&fontAlignY=38&animation=twinkling&color=gradient"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;⚛️+React+Developer;🤖+AI+Developer;🌐+Backend+Developer;🔥+Open+Source+Learner;💻+Building+Real+World+Projects"/>
 
 </div>
-
-<h1 align="center">
-Hi 👋 I'm Bharath Kumar
-</h1>
-
-<h3 align="center">
-
-🚀 Full Stack Developer • React Developer • Backend Enthusiast
-
-</h3>
-
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Python+Developer;Building+Production+Ready+Applications;Always+Learning+New+Technologies"/>
+<img width="700" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
 
 </p>
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750564-f5e7d9d2-4d5e-4fd2-9f4d-14318e5f7dcb.gif" width="700"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb6f0-1c5c-4d67-a3f0-b0b26c95b8fd.gif">
 
 </p>
 
 ---
 
+<table>
+
+<tr>
+
+<td width="60%">
+ 
 ## 🎯 About Me
 
 - 🎓 Passionate about building real-world scalable web applications  
 - 💡 Focused on full-stack development and backend architecture  
 - 🚀 Interested in APIs, system design, and deployment workflows  
-- 🎯 Constantly learning and improving through hands-on projects  
+- 🎯 Constantly learning and improving through hands-on projects
+ 
+</td>
 
+<td>
+
+<img width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 💻 Tech Stack
 
-**Frontend:** React.js, JavaScript, HTML, CSS  
-**Backend:** Node.js, Express.js, Python, Django  
-**Database:** MongoDB, SQL  
-**Tools & Platforms:** Git, GitHub, REST APIs, Postman  
-**Other:** GitHub Pages, Deployment Basics
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,mysql,git,github,vscode,postman"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathkumargorre&theme=tokyonight"/>
+
+</p>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212750573-c15f1d90-95d8-4d1d-8d6b-7fdd5b8cf7b4.gif">
+
+---
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bharathkumargorre&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=bharathkumargorre&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bharathkumargorre/bharathkumargorre/output/github-contribution-grid-snake-dark.svg">
+
+</p>
 
 ---
 
@@ -124,6 +156,14 @@ An intelligent shopping cart system with dynamic item management and calculation
 
 ---
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharathkumargorre&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharathkumargorre&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharathkumargorre&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharathkumargorre&theme=tokyonight"/>
+
 ## 📈 Focus Right Now
 
 - 🔥 Improving Full Stack Development skills
@@ -171,6 +211,4 @@ Actively seeking **Internship / Entry-Level Full Stack Developer roles** where I
 
 </p>
 
-## ⚡ Final Note
-> “I don’t just learn technologies — I build with them.”
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A5ACD,50:00BFFF,100:7B68EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=gradient"/>
