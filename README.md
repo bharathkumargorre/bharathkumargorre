@@ -27,6 +27,7 @@
 - 💡 Focused on full-stack development and backend architecture  
 - 🚀 Interested in APIs, system design, and deployment workflows  
 - 🎯 Constantly learning and improving through hands-on projects
+
  
 </td>
 
@@ -40,7 +41,7 @@
 
 </table>
 
-
+```
 
 ## 💻 Tech Stack
 
