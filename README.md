@@ -29,6 +29,39 @@ I specialize in developing responsive frontend interfaces and integrating them w
 
 ---
 
+<!-- TECH STACK -->
+  <section class="sec stack-sec">
+    <div class="sec-header reveal">
+      <span class="sec-num">05</span>
+      <div class="sec-line"></div>
+      <h2 class="sec-title">TECH <span class="red">STACK</span></h2>
+    </div>
+    <div class="stack-grid">
+      <div class="stack-item reveal d1"><i class="ti ti-brand-react stack-icon" style="color:#61DAFB"></i><span
+          class="stack-name">React</span></div>
+      <div class="stack-item reveal d2"><i class="ti ti-brand-nodejs stack-icon" style="color:#8CC84B"></i><span
+          class="stack-name">Node.js</span></div>
+      <div class="stack-item reveal d3"><i class="ti ti-brand-python stack-icon" style="color:#3776AB"></i><span
+          class="stack-name">Python</span></div>
+      <div class="stack-item reveal d4"><i class="ti ti-brand-mongodb stack-icon" style="color:#47A248"></i><span
+          class="stack-name">MongoDB</span></div>
+      <div class="stack-item reveal"><i class="ti ti-brand-git stack-icon" style="color:#F05032"></i><span
+          class="stack-name">Git</span></div>
+      <div class="stack-item reveal d1"><i class="ti ti-brand-docker stack-icon" style="color:#2496ED"></i><span
+          class="stack-name">Docker</span></div>
+      <div class="stack-item reveal d2"><i class="ti ti-brand-vercel stack-icon" style="color:#fff"></i><span
+          class="stack-name">Vercel</span></div>
+      <div class="stack-item reveal d3"><i class="ti ti-robot stack-icon" style="color:var(--red)"></i><span
+          class="stack-name">LangChain</span></div>
+      <div class="stack-item reveal d4"><i class="ti ti-bolt stack-icon" style="color:#f97316"></i><span
+          class="stack-name">Groq</span></div>
+      <div class="stack-item reveal"><i class="ti ti-brand-github stack-icon" style="color:#fff"></i><span
+          class="stack-name">GitHub</span></div>
+    </div>
+  </section>
+
+  ---
+
 ## 📌 Featured Projects
 
 ### 🔐 Secure Notes Application
