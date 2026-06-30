@@ -3,7 +3,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-<h1>Hi 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> I'm G. Bharath Kumar</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> I'm G. Bharath Kumar</h1>
 
 ### Full Stack Developer | React Enthusiast | Problem Solver
 
