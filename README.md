@@ -99,7 +99,7 @@ An intelligent shopping cart system with dynamic item management and calculation
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathkumargorre&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bharathkumargorre&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
