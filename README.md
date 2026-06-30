@@ -23,6 +23,18 @@ I specialize in developing responsive frontend interfaces and integrating them w
 
 ---
 
+<table width="100%"><tr><td style="background:#161b22; padding:32px 24px; text-align:center;">
+<h2 style="color:#ffffff;">🌐 Portfolio</h2>
+ 
+<p style="color:#8b949e;">Explore my complete work, case studies, certifications, and experience in detail.</p>
+<a href="https://my-portfolio-self-tau-75.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-e63946?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</td></tr></table>
+<table width="100%"><tr><td style="background:#0d1117; padding:32px 24px;">
+
+---
+
 ## 🎯 About Me
 
 - 🎓 Passionate about building real-world scalable web applications  
