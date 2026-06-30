@@ -10,22 +10,42 @@ I specialize in developing responsive frontend interfaces and integrating them w
 
 ---
 
+<!-- Animated Header -->
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> I'm G. Bharath Kumar</h1>
+
+### Full Stack Developer | React Enthusiast | Problem Solver
+
+I'm passionate about building scalable, production-ready web applications.
+I specialize in developing responsive frontend interfaces and integrating them with robust backend systems, REST APIs, and database-driven architectures to create smooth and real-world user experiences.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Python+Full+Stack+Developer;React+Developer;Building+Real+World+Projects" alt="Typing SVG" />
+
+</td>
+<td width="40%" align="center">
+
+<img src="assets/profile.jpg" width="220" style="border-radius: 50%; border: 3px solid #e63946;" alt="G. Bharath Kumar" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharathkumargorre&style=flat-square&color=e63946" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/bharathkumargorre?label=Followers&style=flat-square&color=e63946" alt="Followers" />
+</p>
+
+---
+
 ## 🎯 About Me
 
 - 🎓 Passionate about building real-world scalable web applications  
 - 💡 Focused on full-stack development and backend architecture  
 - 🚀 Interested in APIs, system design, and deployment workflows  
 - 🎯 Constantly learning and improving through hands-on projects  
-
----
-
-## 💻 Tech Stack
-
-**Frontend:** React.js, JavaScript, HTML, CSS  
-**Backend:** Node.js, Express.js, Python, Django  
-**Database:** MongoDB, SQL  
-**Tools & Platforms:** Git, GitHub, REST APIs, Postman  
-**Other:** GitHub Pages, Deployment Basics.
 
 ---
 
