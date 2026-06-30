@@ -33,11 +33,6 @@ I specialize in developing responsive frontend interfaces and integrating them w
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharathkumargorre&style=flat-square&color=e63946" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/bharathkumargorre?label=Followers&style=flat-square&color=e63946" alt="Followers" />
-</p>
-
 ---
 
 ## 🎯 About Me
