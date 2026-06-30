@@ -1,21 +1,9 @@
 <!-- Animated Header -->
-<h1 align="center"> Hi 👋, I'm G.Bharath Kumar</h1>
-<h3 align="center">Full Stack Developer | React Enthusiast | Problem Solver</h3>
-<h4 align="center">I'm Passionate about building scalable, production-ready web applications.
-
-I specialize in developing responsive frontend interfaces and integrating them with robust backend systems, REST APIs, and database-driven architectures to create smooth and real-world user experiences.</h4>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Full+Stack+Developer;React+Developer;Building+Real+World+Projects" />
-</p>
-
----
-
-<!-- Animated Header -->
 <table>
 <tr>
 <td width="60%" valign="middle">
 
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> I'm G. Bharath Kumar</h1>
+<h1>Hi 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> I'm G. Bharath Kumar</h1>
 
 ### Full Stack Developer | React Enthusiast | Problem Solver
 
