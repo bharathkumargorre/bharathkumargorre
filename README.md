@@ -29,6 +29,44 @@ I specialize in developing responsive frontend interfaces and integrating them w
 
 ---
 
+/* STACK LOGOS */
+    .stack-sec {
+      background: var(--gray);
+    }
+
+    .stack-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 1px;
+      background: #1a1a1a;
+    }
+
+    .stack-item {
+      background: var(--gray);
+      padding: 1.5rem 1rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      cursor: default;
+      transition: background 0.2s;
+    }
+
+    .stack-item:hover {
+      background: #222;
+    }
+
+    .stack-icon {
+      font-size: 22px;
+    }
+
+    .stack-name {
+      font-size: 10px;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: #888;
+    }
+
 <!-- TECH STACK -->
   <section class="sec stack-sec">
     <div class="sec-header reveal">
